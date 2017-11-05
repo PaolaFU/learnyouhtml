@@ -1,72 +1,38 @@
-![learnyouhtml](./preview.png)
+
+
 
 # learnyouhtml
 
-[![NPM version][npm-image]][npm-url]
-[![node][node-image]][node-url]
-[![Build Status][buildstat-image]][buildstat-url]
-[![Dependency Status][depstat-image]][depstat-url]
+## Objetivo
 
-> Learn you how to create your first web-page.
+El reto consiste en resolver los 11 ejercicios guiados correctamente.
 
-**Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. This workshopper will guide you through the simple exercises which explain the core principles of HTML.
+## Flujo de trabajo
 
-## Exercises
+1. Desrcaargar Node.js
 
-This workshopper has 11 exercises that cover the most important aspects of HTML.
+2. Realizar un [**fork**] del link del  repositorio que  se encuentra  en el lms de laboratoria
 
-* **HELLO WORLD** — introduction to HTML.
-* **TAGS** — understanding tags.
-* **ATTRIBUTES** — what is tag's attributes.
-* **INLINE TAGS** — tags for styling text.
-* **HEADINGS** — tags for headings.
-* **LISTS** — how to create a list with HTML tags.
-* **TABLES** — how to compose data in table.
-* **BLOCKS** — block tags and semantic.
-* **LINKS AND REFERENCES** — how to leave a references to another page.
-* **FORMS** — creating of forms with control elements.
-* **STYLES AND SCRIPTS** — injecting styles and scripts on a page.
+3. Ubicar en que carpeta de la PC´se clonara el archivo.
 
-## Requirements
+4. Luego **clonar** ese fork en la Pc'. Usando el comando `git clone`  en gitbash.
 
-* [**Node.js**](node-url) >=6.0.0
+5. Escribir el comando npm install -g learnyouhtml
 
-## Installation
+6. Luego  de que carga escribir learnyouhtml. 
 
-Open your terminal and run this command:
+Se mostrara lo siguiente:
 
-```
-npm install -g learnyouhtml
-```
+![Workshopper](assets/img/learnyouhtml.jpg)
 
-Use `sudo` if you get an `EACCESS` error.
+Resolver cada uno en Atom  y verificar cada ejercicio al final.
 
-## Usage
+Finalmente se crea un  index.html en  Atom , donde se alamacena los 11 ejercicios con un link para cada uno, para msotrar lo desarollado
 
-Open your terminal and run the following command:
 
-```
-learnyouhtml
-```
 
-## License
 
-MIT © [Denys Dovhan](http://denysdovhan.com)
 
-<!-- References -->
 
-[html]: https://en.wikipedia.org/wiki/HTML
 
-<!-- Badges -->
 
-[npm-url]: https://npmjs.org/package/learnyouhtml
-[npm-image]: https://img.shields.io/npm/v/learnyouhtml.svg?style=flat-square
-
-[node-url]: https://nodejs.org/en/download/
-[node-image]: https://img.shields.io/node/v/learnyouhtml.svg?style=flat-square
-
-[depstat-url]: https://david-dm.org/denysdovhan/learnyouhtml
-[depstat-image]: https://david-dm.org/denysdovhan/learnyouhtml.svg?style=flat-square
-
-[buildstat-url]: https://travis-ci.org/denysdovhan/learnyouhtml
-[buildstat-image]: https://img.shields.io/travis/denysdovhan/learnyouhtml.svg?style=flat-square

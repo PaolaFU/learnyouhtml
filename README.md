@@ -1,5 +1,6 @@
 
 
+
 # learnyouhtml
 
 ## Objetivo
@@ -21,6 +22,12 @@ El reto consiste en resolver los 11 ejercicios guiados correctamente.
 6. Luego  de que carga escribir learnyouhtml. 
 
 Se mostrara lo siguiente:
+
+![Workshopper](assets/img/learnyouhtml.jpg)
+
+Resolver cada uno en Atom  y verificar cada ejercicio al final.
+
+Finalmente se crea un  index.html en  Atom , donde se alamacena los 11 ejercicios con un link para cada uno, para msotrar lo desarollado
 
 
 
